@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "902865475499",
+    "firebase_url": "https://fir-app-86c62.firebaseio.com",
+    "project_id": "fir-app-86c62",
+    "storage_bucket": "fir-app-86c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902865475499:android:fae8096a605f8f3d",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.firebaseapp.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902865475499-5kunnkd1t5jsif53sg67ue6q74mju1m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.firebaseapp.firebaseapp",
+            "certificate_hash": "3D25818812369E0BCB8165C8B5D9EE391CCD1DD0"
+          }
+        },
+        {
+          "client_id": "902865475499-pra5sadhma6fg9rlcp2l97k6enqjm2h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAJrFSWPuz_2b7hCQT8jUnEKeOEKtUTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902865475499-pra5sadhma6fg9rlcp2l97k6enqjm2h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902865475499:android:7fda5b76ff1d053d",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.autenticacaousuario.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902865475499-816paev0gm1htbep5meal6b03c4iqnup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.autenticacaousuario.autenticacaousuario",
+            "certificate_hash": "3D25818812369E0BCB8165C8B5D9EE391CCD1DD0"
+          }
+        },
+        {
+          "client_id": "902865475499-pra5sadhma6fg9rlcp2l97k6enqjm2h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAJrFSWPuz_2b7hCQT8jUnEKeOEKtUTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902865475499-pra5sadhma6fg9rlcp2l97k6enqjm2h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
